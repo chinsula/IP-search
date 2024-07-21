@@ -2,6 +2,7 @@ import tkinter as ttk
 from tkinter import filedialog
 from main import get_info_by_ip
 import re
+import os
 
 
 def open_file():
@@ -18,11 +19,11 @@ def open_file():
         root.destroy()
 
 
-# Create the main window
+# Create the main windowp
 root = ttk.Tk()
 root.geometry("350x250+450+150")
 root.title("Откройте файл с IP-адресами")
-root.iconbitmap(default="img.ico")
+# root.iconbitmap(default=os.path.join("img.ico"))
 
 # Create a button to open the file
 open_button = ttk.Button(root, text="Открыть файл", command=open_file)
