@@ -1,0 +1,35 @@
+[IP]: 85.26.185.170 
+[Int prov]: MegaFon 
+[Org]: OJSC MegaFon 
+[Country]: Russia 
+[Region Name]: Krasnodar Krai 
+[City]: Krasnodar 
+[ZIP]: 350000 
+[Lat]: 45.0355 
+[Lon]: 38.975 
+адрес: г Краснодар, Главная городская пл 
+адрес: г Краснодар 
+_____________________________ 
+[IP]: 178.67.197.164 
+[Int prov]: Rostelecom networks 
+[Org]: OJSC Rostelecom 
+[Country]: Russia 
+[Region Name]: Moscow 
+[City]: Moscow 
+[ZIP]: 125466 
+[Lat]: 55.7483 
+[Lon]: 37.6171 
+адрес: г Москва, Кремлевская наб 
+адрес: г Москва 
+_____________________________ 
+[IP]: 85.249.165.248 
+[Int prov]: SOVINTEL 
+[Org]:  
+[Country]: Russia 
+[Region Name]: Krasnodar Krai 
+[City]: Krasnodar 
+[ZIP]: 350900 
+[Lat]: 45.1412 
+[Lon]: 38.9763 
+адрес: г Краснодар 
+_____________________________ 
